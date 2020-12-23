@@ -8,8 +8,5 @@ body {
 	color: var(--font-color);
 	margin: 0;
 	padding: 0;
-	position: fixed;
-  overflow-y: hidden;
-	box-sizing: border-box;
 	font-family: var(--font-family-sans);
 }
